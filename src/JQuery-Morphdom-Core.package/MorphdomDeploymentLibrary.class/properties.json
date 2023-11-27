@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MorphdomFileLibrary",
+	"category" : "JQuery-Morphdom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MorphdomDeploymentLibrary",
+	"type" : "normal"
+}

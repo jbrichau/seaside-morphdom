@@ -1,0 +1,4 @@
+testing
+initialize
+
+	self register

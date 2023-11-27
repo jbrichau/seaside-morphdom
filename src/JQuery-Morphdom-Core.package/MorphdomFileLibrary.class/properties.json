@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "JQuery-Morphdom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MorphdomFileLibrary",
+	"type" : "normal"
+}

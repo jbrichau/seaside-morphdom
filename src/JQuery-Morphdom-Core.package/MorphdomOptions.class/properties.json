@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GRObject",
+	"category" : "JQuery-Morphdom-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"options"
+	],
+	"name" : "MorphdomOptions",
+	"type" : "normal"
+}
